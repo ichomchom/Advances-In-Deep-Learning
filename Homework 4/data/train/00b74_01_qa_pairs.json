@@ -1,0 +1,512 @@
+[
+  {
+    "question": "What kart is the ego car?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which kart is the player controlling?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What is the name of the ego kart?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which kart represents the player's vehicle?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What kart is being controlled by the player?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Identify the ego kart.",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What's the name of the main kart?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which kart is in the center of the view?",
+    "answer": "sara_the_wizard",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are there in the scenario?",
+    "answer": "4",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are visible in this view?",
+    "answer": "4",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What is the total number of karts?",
+    "answer": "4",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Count the number of karts in the scene.",
+    "answer": "4",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many racing karts can you see?",
+    "answer": "4",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What's the total kart count?",
+    "answer": "4",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 4 karts in the scene?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is the number of karts equal to 4?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 3 karts in the scene?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 5 karts in the scene?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 6 karts in the scene?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What track is this?",
+    "answer": "snowmountain",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which track are the karts racing on?",
+    "answer": "snowmountain",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What is the name of this racing track?",
+    "answer": "snowmountain",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Identify the current track.",
+    "answer": "snowmountain",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What racing circuit is this?",
+    "answer": "snowmountain",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which track is being used for this race?",
+    "answer": "snowmountain",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is this the snowmountain track?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are the karts racing on snowmountain?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is this the rainbow track?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is this the desert track?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie to the left or right of the ego car?",
+    "answer": "left",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie on the left or right side?",
+    "answer": "left",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which side is beastie on relative to the ego car?",
+    "answer": "left",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie positioned to the left or right?",
+    "answer": "left",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie in front of or behind the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie ahead of or behind the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Where is beastie positioned front-to-back?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie forward or backward relative to the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Where is beastie relative to the ego car?",
+    "answer": "left and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Describe beastie's position relative to the ego car.",
+    "answer": "left and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What is beastie's position compared to the ego car?",
+    "answer": "left and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie to the left of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie to the right of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie behind the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is beastie in front of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux to the left or right of the ego car?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux on the left or right side?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which side is tux on relative to the ego car?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux positioned to the left or right?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux in front of or behind the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux ahead of or behind the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Where is tux positioned front-to-back?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux forward or backward relative to the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Where is tux relative to the ego car?",
+    "answer": "right and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Describe tux's position relative to the ego car.",
+    "answer": "right and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What is tux's position compared to the ego car?",
+    "answer": "right and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux to the right of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux to the left of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux behind the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is tux in front of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue to the left or right of the ego car?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue on the left or right side?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Which side is xue on relative to the ego car?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue positioned to the left or right?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue in front of or behind the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue ahead of or behind the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Where is xue positioned front-to-back?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue forward or backward relative to the ego car?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Where is xue relative to the ego car?",
+    "answer": "right and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Describe xue's position relative to the ego car.",
+    "answer": "right and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What is xue's position compared to the ego car?",
+    "answer": "right and behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue to the right of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue to the left of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue behind the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Is xue in front of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are to the left of the ego car?",
+    "answer": "1",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Count the karts on the left side of the ego car.",
+    "answer": "1",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned to the left?",
+    "answer": "1",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What's the count of karts on the left side?",
+    "answer": "1",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are to the right of the ego car?",
+    "answer": "2",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Count the karts on the right side of the ego car.",
+    "answer": "2",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned to the right?",
+    "answer": "2",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What's the count of karts on the right side?",
+    "answer": "2",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are in front of the ego car?",
+    "answer": "0",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Count the karts ahead of the ego car.",
+    "answer": "0",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned in front?",
+    "answer": "0",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What's the count of karts in front of the ego car?",
+    "answer": "0",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are behind the ego car?",
+    "answer": "3",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Count the karts behind the ego car.",
+    "answer": "3",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned behind?",
+    "answer": "3",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "What's the count of karts behind the ego car?",
+    "answer": "3",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there more karts on the left or right?",
+    "answer": "right",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there more karts in front or behind?",
+    "answer": "behind",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 1 karts to the left of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 0 karts to the left of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 2 karts to the left of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 2 karts to the right of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 1 karts to the right of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 3 karts to the right of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 0 karts to the front of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 1 karts to the front of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 3 karts to the behind of the ego car?",
+    "answer": "yes",
+    "image_file": "train/00b74_01_im.jpg"
+  },
+  {
+    "question": "Are there 2 karts to the behind of the ego car?",
+    "answer": "no",
+    "image_file": "train/00b74_01_im.jpg"
+  }
+]

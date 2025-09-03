@@ -1,0 +1,26 @@
+[
+  {
+    "image_file": "010f2_03_im.jpg",
+    "caption": "konqi is the ego car."
+  },
+  {
+    "image_file": "010f2_03_im.jpg",
+    "caption": "There are 4 karts in the scenario."
+  },
+  {
+    "image_file": "010f2_03_im.jpg",
+    "caption": "The track is xr591."
+  },
+  {
+    "image_file": "010f2_03_im.jpg",
+    "caption": "tux is right and in front of the ego car."
+  },
+  {
+    "image_file": "010f2_03_im.jpg",
+    "caption": "gavroche is left and in front of the ego car."
+  },
+  {
+    "image_file": "010f2_03_im.jpg",
+    "caption": "kiki is right and in front of the ego car."
+  }
+]

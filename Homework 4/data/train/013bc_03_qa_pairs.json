@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What kart is the ego car?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Which kart is the player controlling?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What is the name of the ego kart?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Which kart represents the player's vehicle?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What kart is being controlled by the player?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Identify the ego kart.",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What's the name of the main kart?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Which kart is in the center of the view?",
+    "answer": "beastie",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are there in the scenario?",
+    "answer": "1",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are visible in this view?",
+    "answer": "1",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What is the total number of karts?",
+    "answer": "1",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Count the number of karts in the scene.",
+    "answer": "1",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many racing karts can you see?",
+    "answer": "1",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What's the total kart count?",
+    "answer": "1",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 1 karts in the scene?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Is the number of karts equal to 1?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 2 karts in the scene?",
+    "answer": "no",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 3 karts in the scene?",
+    "answer": "no",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What track is this?",
+    "answer": "scotland",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Which track are the karts racing on?",
+    "answer": "scotland",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What is the name of this racing track?",
+    "answer": "scotland",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Identify the current track.",
+    "answer": "scotland",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What racing circuit is this?",
+    "answer": "scotland",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Which track is being used for this race?",
+    "answer": "scotland",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Is this the scotland track?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are the karts racing on scotland?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Is this the rainbow track?",
+    "answer": "no",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Is this the desert track?",
+    "answer": "no",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are to the left of the ego car?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Count the karts on the left side of the ego car.",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned to the left?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What's the count of karts on the left side?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are to the right of the ego car?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Count the karts on the right side of the ego car.",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned to the right?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What's the count of karts on the right side?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are in front of the ego car?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Count the karts ahead of the ego car.",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned in front?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What's the count of karts in front of the ego car?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are behind the ego car?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Count the karts behind the ego car.",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "How many karts are positioned behind?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "What's the count of karts behind the ego car?",
+    "answer": "0",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there more karts on the left or right?",
+    "answer": "equal",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there more karts in front or behind?",
+    "answer": "equal",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 0 karts to the left of the ego car?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 0 karts to the right of the ego car?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 0 karts to the front of the ego car?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  },
+  {
+    "question": "Are there 0 karts to the behind of the ego car?",
+    "answer": "yes",
+    "image_file": "train/013bc_03_im.jpg"
+  }
+]
